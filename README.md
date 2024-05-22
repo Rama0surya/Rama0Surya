@@ -1,19 +1,43 @@
-<img src="https://github.com/Rama0surya/Rama0Surya/blame/main/wave_top.svg" alt="Hero image">
+<img align="center" alt="Coding" width="1000" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1080&crop=smart&auto=webp&s=79e43e61455bc523307e1ba9284a4afaaae951c5">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Ahmad+Surya+Ramadhan!;" />
 </h1>
+<h3 align="center">A passionate to be Data-Field Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rama0surya&label=Profile%20views&color=0e75b6&style=flat" alt="rama0surya" /> </p>
 
-# 💫 About Me:
-🔭 Mahasiswa IT UPN Veteran Jakarta<br> Interest In Data Science and Data Analyst <br>⚡ Fun fact I love Playing Valorant
+- 🔭 I’m currently stdying on **Pembangunan Nasional Veteran Jakarta University**
 
+- 🌱 I’m currently learning **Data Field Path**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hades061) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmad.suryaramadhan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdsuryaramadhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-surya-ramadhan-387b14218/) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jefthah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jefthah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefthah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 👨‍💻 All of my projects are available at [https://rama0surya.github.io/Portofolio/](https://rama0surya.github.io/Portofolio/)
 
-<img src="https://github.com/Rama0surya/Rama0Surya/blob/main/wave_buttom.svg" alt="Hero image">
+- 💬 Ask me about **Games and IOT Develop**
+
+- 📫 How to reach me **ahmadsuryar0612@gmail.com**
+
+- ⚡ Fun fact **I love Gaming and Workout**
+
+<hr/>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmadsuryaramadhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadsuryaramadhan/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ahmdsuryaramadhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmdsuryaramadhan/" height="30" width="40" /></a>
+</p>
+<hr/>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,bootstrap,blender,c,cpp,css" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,html,java,js,kotlin,mysql" />
+    <img src="https://skillicons.dev/icons?i=notion,py,r,sqlite,sklearn,tensorflow,ts,ubuntu,vscode" /><br>
+</div>
+<br/>
+<hr/>
+
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rama0surya&show_icons=true&theme=dark&title_color=f3f3f3&text_color=9f9f9f&bg_color=151515&locale=en&layout=compact" alt="rama0surya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rama0surya&show_icons=true&theme=dark&title_color=f3f3f3&text_color=9f9f9f&bg_color=151515&locale=en" alt="rama0surya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rama0surya&theme=dark" alt="rama0surya" /></p>
